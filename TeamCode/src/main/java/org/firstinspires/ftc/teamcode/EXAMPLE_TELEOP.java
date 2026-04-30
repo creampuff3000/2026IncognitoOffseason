@@ -7,7 +7,7 @@ import org.firstinspires.ftc.teamcode.HARDWAREMAP;
 import org.firstinspires.ftc.teamcode.teleopSubsystems.Drive;
 import java.util.List;
 
-
+//Everson is the goat
 @Config
 @TeleOp(name = "EXAMPLE TELE")
 public class EXAMPLE_TELEOP extends LinearOpMode {
