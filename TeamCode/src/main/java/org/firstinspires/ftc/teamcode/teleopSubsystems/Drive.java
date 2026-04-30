@@ -11,7 +11,7 @@ public class Drive {
 
     private final HARDWAREMAP robot;
     private double speed = 1.0;
-
+    private double hi = 1.9;
     public Drive(HARDWAREMAP robot) {
         this.robot = robot;
 
